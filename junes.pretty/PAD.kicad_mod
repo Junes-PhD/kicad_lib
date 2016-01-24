@@ -1,0 +1,9 @@
+(module PAD (layer F.Cu) (tedit 56A27B1E)
+  (fp_text reference REF** (at 0 2.54) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PAD (at 0 -2.54) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 3 1) (layers F.Cu))
+)
